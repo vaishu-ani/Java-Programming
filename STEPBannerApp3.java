@@ -1,10 +1,6 @@
-import java.util.*;
-        class STEPBannerApp3 {
-      public static void main(){
-		    
-         
-		
-	        System.out.println("***");		   
+class STEPBannerApp3 {
+   public static void main(String[] args) {
+		    System.out.println("***");		   
 	        System.out.println("   ***   " + "   " + "   ***   " + "   " + " ******  " + "   " + "  *****  ");
 			System.out.println(" **   ** " + "   " + " **   ** " + "   " + " **    **" + "   " + " **   ** ");
 			System.out.println("**     **" + "   " + "**     **" + "   " + " **    **" + "   " + " **      ");
@@ -14,4 +10,3 @@ import java.util.*;
 			System.out.println("   ***   " + "   " + "   ***   " + "   " + " **      " + "   " + "  *****  ");
     }
 }
-
